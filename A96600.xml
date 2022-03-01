@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons love to her neighbours in generall and in particular to the six associated counties, namely Norfolk, Suffolk, Essex, Cambridge, Hartford, and Bedford. Wherein is plainly laid open the danger which is like immediately to fall upon them, uulesse [sic] they with firm resolution stand to their armes to withstand the blood-thirsty cavaliers.</title>
+            <author>Williams, John, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96600</idno>
+            <idno type="STC">Wing W2744</idno>
+            <idno type="STC">Thomason E1183_1</idno>
+            <idno type="STC">ESTC R208165</idno>
+            <idno type="EEBO-CITATION">99867144</idno>
+            <idno type="PROQUEST">99867144</idno>
+            <idno type="VID">119435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119435)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1183[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons love to her neighbours in generall and in particular to the six associated counties, namely Norfolk, Suffolk, Essex, Cambridge, Hartford, and Bedford. Wherein is plainly laid open the danger which is like immediately to fall upon them, uulesse [sic] they with firm resolution stand to their armes to withstand the blood-thirsty cavaliers.</title>
+                  <author>Williams, John, Captain.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Hammond,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous; attributed to John Williams by Wing.</note>
+                  <note>With title page woodcut, bearing caption: Parliament for religion, lawes, and liberties wee'l strive, commonalty with heart and hand, and purse, whilst we remaine alive.</note>
+                  <note>Annotation on Thomason copy: "Oct: 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119435:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>LONDONS Love to her neighbours in generall and in particular to the ſix aſſociated Counties, namely <hi>Norfolk, Suffolk, Eſſex, Cam<g ref="char:EOLhyphen"/>bridge, Hartford,</hi> and <hi>Bedford.</hi>
+            </p>
+            <p>Wherein is plainly laid open the dan<g ref="char:EOLhyphen"/>ger which is like immediately to fall upon them, unleſſe they with firm reſolution ſtand to their Armes to withſtand the blood-thirſty Cavaliers.</p>
+            <figure>
+               <sp>
+                  <speaker>Parliament</speaker>
+                  <p>For Religion, Lawes and Liberties wee'l ſtrive,</p>
+               </sp>
+               <figure>
+                  <figDesc>depiction of a heart atop two hands shaking</figDesc>
+               </figure>
+               <sp>
+                  <speaker>Commonalty</speaker>
+                  <p>with heart and hand, and purſe, whilſt we remaine alive.</p>
+               </sp>
+               <figDesc>roundheads armed with sword, musket, and holding a money bag face cavaliers shaking hand, while a man reads from a book</figDesc>
+            </figure>
+            <p>Printed by Iohn Hammond, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <div type="part">
+               <pb facs="tcp:119435:2"/>
+               <!-- PDF PAGE 98 -->
+               <pb n="3" facs="tcp:119435:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 98 -->
+               <head>To the true Religious, and well affected, Inhabitants of the ſix aſſociated Counties, whoſe loving hearts, and liberall hands, have not been ſlacke in ſeting forth and ſending at every needefull occaſion both men, money, and furniture.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>OR this ſo good a purpoſe as to with ſtand the bloody and unhumane Cavaliers, which are now ſwarming up and downe our King<g ref="char:EOLhyphen"/>dome like ſo many devou<g ref="char:EOLhyphen"/>ring Drones, which continually life lurking to rob the provident Bees of that ſweere hony which they with much care and paines have been a long time geting together.</p>
+               <p>Experince hath often taught us this Leſſon that he is truly wiſe that can beware by o<g ref="char:EOLhyphen"/>ther mens harmes: anothers ſaying is this
+<pb n="4" facs="tcp:119435:3"/>
+                  <!-- PDF PAGE 99 -->how that he that is warned is halfe armed, which two ſentences may fitly ſerve in theſe deſperate and dangerous time to incourage every man to looke well into his own e<g ref="char:EOLhyphen"/>ſtate, and to ſtrive diſligently whereby to prevent all evill occaſions, which otherwiſe may pull downe miſchiefe and calamities on our heads.</p>
+               <p>Therefore the better to avoid the terrable uſage of the deſtroying enemy I will inde<g ref="char:EOLhyphen"/>vour my ſelf to rouſe up your drooping harts, to reſiſt the plundring foe, be ſhewing you the miſery which is like in a ſeaven fold manner to ſeiſe upon you unleſſe you prove valliant couragious and reſolute in your actions.</p>
+               <p>See therefore that you play the men and behave your ſelves bravly e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or now your Re<g ref="char:EOLhyphen"/>ligion, your Liberties, your Goods, yea and your Lives, and all is layd at ſtake as ſhall plainly appeare by what is paſt; now there<g ref="char:EOLhyphen"/>fore is the time to ſtand up for the truth: if you let ſlip this opportunity you may bid farewell to your Liberties for ever.</p>
+               <p>Although the Cavaliers ſayes and ſweares <hi>dam them and ſinck them,</hi> they fight for Reli<g ref="char:EOLhyphen"/>gion we have no cauſe to believe them, and this wee may well be ſure of one thing they
+<pb n="5" facs="tcp:119435:3"/>
+                  <!-- PDF PAGE 99 -->meane us no good, when every day they are preparing all manner of bloody ingines to deſtroy us.</p>
+               <p>Let them profeſſe what they will I ſhall ne<g ref="char:EOLhyphen"/>ver think them our friends that have provided Granadoes to ſet our houſes on fire, and after to enter our Cities and Townes, perforce, and then to rob, pillage, and plunder, ſteale, and murder, all that they can lay hands on.</p>
+               <p>Yet there are ſome that ſay O would the Cavaliers were here, we are ſure they will doe us no harm; but alas if they had felt but one ſmall part of the cruell uſage that <hi>Briſtoll</hi> men, and <hi>Exceter</hi> men, have felt, thoſe I ſay which do now wiſh the Cavaliers neareſt to them, would ſurely wiſh them fartheſt from them.</p>
+               <p>For if the Cavaliers once get the upper hand of your Cities, Townes, and Houſes, you may well bid farewell Religion, farewell Lawes, farewell the Liberties of us poore Proteſtants for ever.</p>
+               <p>For why, they ſpeake neither for one nor other but all goes to wrack and ruine; where they come there is no difference made be<g ref="char:EOLhyphen"/>tweene them that let them in, and them that kept them out, for what they can catch and carry away they ſay is their own by Law.</p>
+               <pb n="6" facs="tcp:119435:4"/>
+               <!-- PDF PAGE 100 -->
+               <p>Now let them that take their parts ſo high<g ref="char:EOLhyphen"/>ly behold their dealings, and then judge whe<g ref="char:EOLhyphen"/>ther the Cavaliers are fit men to be let come in, to a City or County, or not.</p>
+               <p>I have here no long time limited me, in this one ſheet of Paper, to expreſſe the cruel<g ref="char:EOLhyphen"/>ty of the Cavaliers, yet ſome few paſſages of theirs ſhall herein be related, underſtand this beloved friends &amp; neighbours, he that writes theſe lines to you hath not onely ſeene, but alſo felt the heavy blowes and bloody hands, &amp; now doth barre the bloody marks of them which may ſerve as a witneſſe to teſtifie of their cruelty and unhumane dealings.</p>
+               <p>I ſaw them cut, wound, and mangle Gen<g ref="char:EOLhyphen"/>tlemen of good worth and quality, and yet they promiſed both me and them faire quar<g ref="char:EOLhyphen"/>ter,</p>
+               <p>I felt the puniſhment of hunger, and cold in priſon being faſt fettered in Iron Chaines with my hands, neck, and my heeles bound faſt together.</p>
+               <p>A puniſhment ſeldome heard of for poore Priſoners<g ref="char:punc">▪</g> eſpecally for Captaines, yet this and more I indure: beſides I ſaw them ſtrip men, women, and children naked out of cloaths. I ſaw the p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople go with bleeding bodies and fainting hearts, whilſt their houſes
+<pb n="7" facs="tcp:119435:4"/>
+                  <!-- PDF PAGE 100 -->were fired to the ground, and their goods conſumed.</p>
+               <p>I ſaw men carried Captiues away, whilſt their wives, children, and famlies went weeping, wayling and wringing their hands up and down the ſtreets, having no place wherein to put their heads: theſe bloody uſages and many more have I beheld all<g ref="char:EOLhyphen"/>though by Gods great providence my life is yet preſerued.</p>
+               <p>All theſe were dolefull fights to beho'd yet have I not told you the worſt, I have not told you of their rauiſhing of women, nor kill<g ref="char:EOLhyphen"/>ing of maids which by them was done in <hi>Staffordſheire</hi> and other Ceuntries: yet are all thoſe cruelties nothing in regard to what they threaten againſt <hi>London, Norfolke, Suf<g ref="char:EOLhyphen"/>folke, Eſſex, Cambridge, Hartford,</hi> and <hi>Bedford<g ref="char:EOLhyphen"/>ſhoire</hi> if they can gaine what they aime at: for this they make bargans they knew 'twas you that firſt ſought to prevent them to their purpoſes, they knew 'twas you that ſet for<g ref="char:EOLhyphen"/>ward your hands to hinder their pretences, they knew 'twas your monies that maintaned warres againſt them, they knew 'twas you that were firſt movers in the way of refor<g ref="char:EOLhyphen"/>mation, they knew that you oppoſe I Biſhops and Revenues, and they knew 'twas you that
+<pb n="8" facs="tcp:119435:5"/>
+                  <!-- PDF PAGE 101 -->cauſed the Grand Malignant to looſe his heads.</p>
+               <p>And therefore they ſay and ſweare that you ſhall be ſure to caſt of the deepeſt cup of their furie, I pray God they may never live to have their wills in ſuch a bloody way.</p>
+               <p>Thus you ſee my dear friends what mighty enemies you have &amp; how reſolute they are in their proceedings, they are grown ſo inſolet that they grievouſly oppreſſe all Countryes where ever they become, and daily brings them into ſlavery, ſome of them being <hi>Jriſh</hi> Cavaliers, ſome <hi>Vallouns</hi> ſome <hi>Blackmoores,</hi> and others which name themſelves to be of the Queenes Army, they doe more harmes then any of the reſt.</p>
+               <p>Rouſe up your ſpirits therefore you noble minded Citizens and Countrymen, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye no longer under the burden of oppeſſion be va<g ref="char:EOLhyphen"/>liant and couragious: ſhew your ſelves like men, and let it not be ſaid that you ſuffered ſuch a crew once to ſet foote in your Coun<g ref="char:EOLhyphen"/>tries, take ſword in hand and fight valiantly againſt them that ſeeke the utter ruine and deſtruction of you and all that belong unto you, fight I ſay for King and Parliament, Lawes, Liberties, and Rights, and for your <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enlargements, leaſt another day you re<g ref="char:EOLhyphen"/>pent
+<pb n="9" facs="tcp:119435:5"/>
+                  <!-- PDF PAGE 101 -->the neglection of your opportunity, <hi>Eſſex, Suffolk,</hi> and <hi>Norfolk,</hi> 'tis you that are moſt threatened it behoves you therefore to looke to your ſelves for if the boaſting enemies be let to have their wills their's no more mercy to be found then is in the teeth of a mad Dog.</p>
+               <p>Then may you as many other Countries have done before, even ſee the perpetuall downfall one of another, and ſo become a prey to the mercileſſe enemy.</p>
+               <p>Conſider this I pray you; for your own ſakes, would it not grieve your hearts, to depart from your ſoft beds, and to be carried away to ſome lothſome priſon where is no<g ref="char:EOLhyphen"/>thing but hunger and cold chaines, and i<g ref="char:EOLhyphen"/>rons, bloody ſtripes, and all manner of cruel<g ref="char:EOLhyphen"/>ties uſed: would it not grieve you, to ſee your goods, cattell, and all that you enjoy taken violently from you: would it not pierce your tender hearts to ſee your wives abuſed, your daughters raviſhed, and your chilren turned out of the doores. An children! what torment will it be to you to ſee your loving Parents thus barbarouſly dealt with<g ref="char:EOLhyphen"/>all? it wounds my heart to think what will become of you: your homes will be the ſtreets, the blocks your beds, water your
+<pb n="10" facs="tcp:119435:6"/>
+                  <!-- PDF PAGE 102 -->drink, and your food will be what you can beg of the mercileſſe enemy.</p>
+               <p>This is like to be your uſage if the tyran<g ref="char:EOLhyphen"/>nicall enemy once gets poſſeſſion of your eſtates for ſo have they dealt by the famous Cities of <hi>Briſtoll; Exceter,</hi> and all the Weſt<g ref="char:EOLhyphen"/>ern parts <hi>Gloceſter</hi> onely excepted: and had not <hi>Glocester</hi> manfully withſtood them ha<g ref="char:EOLhyphen"/>ving God on their ſides, they had utterly been overthrown, and brought in ſlavery as other famous Cities and countries have been, therfore my friends, let <hi>Gloſter</hi> be your pre<g ref="char:EOLhyphen"/>ſident, who couragiouſly defended them<g ref="char:EOLhyphen"/>ſelves by day and night, for many wofull dayes and nights together, yet ſuch was the vallour of the inhabitants of the City of <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi> having almoſt ſpent all their victuall and ammunition, and but few men left to ſtrengthen the City in regard of the great number of the enemy which dayly increaſed.</p>
+               <p>Two hundred valiant hearted wowen of the City magnanimouſly took up armes, namely, both Pyke and Muſquet, and kept true watch at the Courts of Guard, and ſo re<g ref="char:EOLhyphen"/>lieved their wearied husbands, and ſo by that means the City was preſerved from the fury of the Cavaliers, till ſuch time the no<g ref="char:EOLhyphen"/>ble Lord Generall the Earl of <hi>Eſſex</hi> came
+<pb n="11" facs="tcp:119435:6"/>
+                  <!-- PDF PAGE 102 -->with his warlike bands of Souldiers for the relief of the City of <hi>Gloceſter,</hi> which when the Cavaliers perceived they broke the ſiege and fled from thence, with all the ſpeed that they could make.</p>
+               <p>Now beloved friends, know this, our caſe is in a manner as <hi>Gloceſters</hi> mens caſe was<g ref="char:punc">▪</g> and although they are not as yet come ſo neare as they were <hi>Gloceſter,</hi> yet they have vowed they will be with us before we are a<g ref="char:EOLhyphen"/>ware of them: therefore as I ſaid before, it is very meet and needfull that we provide and make ready every day for their coming: and yet let us not altogether depend upon our own ſtrength, for it is the mighty God of Heaven that muſt ſtand for us, or elſe we are all in a miſerable caſe thus have I told you I can teſtifie by experience, and alſo warrand, by the example of others to ſtrive to prevent your deſtroying enemies.</p>
+               <p>Now I pray to the true God of all conſo<g ref="char:EOLhyphen"/>lation to preſerve you from the hand, of the perſecutiers Amen.</p>
+               <closer>
+                  <signed>
+                     <hi>Your ſervant till Death.</hi> Captaine <hi>John  Williams.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:119435:7"/>
+               <!-- PDF PAGE 103 -->
+               <p>Now let us therefore, conſider if ſuch ver<g ref="char:EOLhyphen"/>tue, ſuch Religion, ſuch couragious hearts remained in women, much more doth it be<g ref="char:EOLhyphen"/>long to men, to ſtand in defence againſt the enemies of the Goſpell and true Religion.</p>
+               <p>Therefore I would aduertiſe you all in generall to take up armes in this ſo good and lawfull a cauſe.</p>
+               <p>Let not your hearts droop, though <hi>Briſtoll, Exceter,</hi> and ſome other parts be overturned by the domineering Cavaliers, for we have a warlike navy of ſhips at Sea, &amp; many ſtrong Forts by Land, beſides we have two noble Generalls, as the Earle of <hi>Warwick</hi> by Sea and the Earle of <hi>Eſſex</hi> by land, which will fight it out for the Goſpels ſake, till the laſt drop of bloud be ſpent, rather then let the enemies of Chriſt ſubdue us.</p>
+               <p>Maſters, Servants, Apprentices, all ſorts of men; rich and poore, that are able to bear arms, I deſire you to ſtand up for true Religion, and thoſe that are not able to bear arms, let them ſhew their bounty and liberality in ſending mony, and maintenance, to the ſet<g ref="char:EOLhyphen"/>ting forward of thoſe that are ready, able and willing to go in this moſt noble and re<g ref="char:EOLhyphen"/>ligious deſigne.</p>
+               <p>And let us ſtrive to remove drunkards,
+<pb n="13" facs="tcp:119435:7"/>
+                  <!-- PDF PAGE 103 -->ſwearers, and ſcoffers at Religion, and ſuch vile perſons, for thoſe men that break covenant with God, will ſurely break covenant with you, if ocaſion be offered, which is not un<g ref="char:EOLhyphen"/>attempted till now: when you have removed diſorder, ſet your ſelves in order, put your ſelves every one into a poſture of defence, fit for warre, get every company Captains, let euery man liſt himſelf, and get as good arms as he can.</p>
+               <p>That ſo if an onſet ſhould be given every man may be ready to do ſomething and fight in ſome order: looke to your workes make them ſtrong both in Cities and Countryes where you come, get men of Judgment, to view them and let them not be ſlighted for they be the beſt ſafeguards you have, looſe them and then the Cities and Townes where you are be loſt, for the Enemy worketh by policy, have a watchfull eye over them that you truſt, ſee that they be Religious, and well grounded men, I ſpeake boldly and plainely after cour ountry manner, becauſe I knew up<g ref="char:EOLhyphen"/>on this City eſpecially depends immediately the ſafety of our Lawes, our Liberties, our Lives, our Religion, our Parliament; moſt noble Citizens as you tender theſe things, ſo ſhew it in your reaſons contending for theſe
+<pb n="14" facs="tcp:119435:8"/>
+                  <!-- PDF PAGE 104 -->things, wives put on your husbands to love themſelues, you and their children, and as they love you, and would have you ſafe, ſo let them uſe a meanes to keep you ſafe to riſe in a body, and fight againſt theſe curſed men that intend nothing but our deſtruction, up quickly, and be doing, for the cauſe and the love of heaven, the mover of all hearts, ſtirre you up to the work, and proſper you in it, that we may ſee an happy end of this unhappy Warre, and this ſhall not onely be the prayer, but as hitherto it hath, ſo alway it ſhall be to the utmoſt indeavoar of your poore ſervant,</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This Book is Printed according to Order.</p>
+            <pb facs="tcp:119435:8"/>
+            <!-- PDF PAGE 104 -->
+         </div>
+      </back>
+   </text>
+</TEI>
